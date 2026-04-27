@@ -20,7 +20,8 @@
   "homepage": "https://github.com/Zarnytskyi/TxProducts-Web#readme",
   "dependencies": {
     "cors": "^2.8.6",
-    "dotenv": "^17.4.2"
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
   },
   "devDependencies": {
     "@types/express": "^5.0.6",
